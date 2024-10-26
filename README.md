@@ -3,6 +3,7 @@
 ## 📜 Project Overview
 
 **Re-Imagine** is a hackathon project aimed at enhancing the visual appeal and user experience of Etsy.com without altering its core functionality. The goal is to create a more engaging and user-friendly interface.
+![Screenshot from 2024-10-26 23-21-59](https://github.com/user-attachments/assets/7f1ceb44-412a-4c96-8980-859217d0bfa7)
 
 ## ✨ Key Features
 
